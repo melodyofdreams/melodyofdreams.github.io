@@ -1,3 +1,6 @@
 Testing:
-In terminal, run 'python -m http.server'
-Navigate to 'http://localhost:PORT' where PORT is the port the server is running on (see output in terminal)
+
+1. Open a terminal
+1. Navigate to the root of the repository
+1. Run 'python3 -m http.server'
+1. Navigate to 'http://localhost:PORT' where PORT is the printed port from the above command
